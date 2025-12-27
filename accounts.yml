@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-    message: "Welcome to EazyBank accounts related Dheeren's local APIs "
+    message: "Welcome to EazyBank accounts related Dheeren's new local APIs "
     contactDetails:
         name: "John Doe - Developer"
         email: "john@eazybank.com"
