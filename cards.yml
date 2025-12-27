@@ -4,9 +4,10 @@ build:
 cards:
   message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Dheeren Git - Developer"
+    name: "{cipher}9281abf483c336e26f6a2b68ab4f2d4ca2cb8d91d55e7dd35ebcfbdfe51c116d28f30b817efe2ee1f7d5adeb74fa821e"
     email: "dragos@eazybank.com"
   onCallSupport:
     - (412) 419-3491
 
     - (915) 382-1932
+
