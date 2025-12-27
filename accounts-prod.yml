@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Dheeren - Manager"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
