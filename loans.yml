@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank loans related Dheeren's local APIs "
+  message: "Welcome to EazyBank loans related Dheeren's new local APIs "
   contactDetails:
     name: "Dheeren developer - Developer"
     email: "amaal@eazybank.com"
@@ -10,3 +10,4 @@ loans:
     - (452) 456-2176
 
     - (546) 764-8934
+
